@@ -4,7 +4,7 @@ local yes = Players.LocalPlayer.Name
 local ChatTag = {}
 ChatTag[yes] =
     {
-        TagText = "Snoopy+",
+        TagText = "SP+ User",
         TagColor = Color3.("(128,0,128)")
     }
 
